@@ -1,10 +1,11 @@
-Link to unlisted youtube video:
+Link to unlisted youtube video: https://youtu.be/eQ7-jNtM_Dg
 
 
-Public link to the slide (Anyone on the internet can view without login):
+Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/1TYecYLvYwx4RupufeFqSLwcRhA5JUHokPXvqeMb78QA/edit?usp=sharing
 
 
-Paper title:
+Paper title:An Interactive Interpretability System for Breast Cancer Screening with Deep Learning
+
 
 
 Link to the paper: 
