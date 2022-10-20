@@ -8,7 +8,7 @@ Paper title:An Interactive Interpretability System for Breast Cancer Screening w
 
 
 
-Link to the paper: 
+Link to the paper: https://virtual.ieeevis.org/year/2022/paper_w-biomedicalai-4793.html
 
 
 Group Number:
