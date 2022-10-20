@@ -12,7 +12,7 @@ Link to the paper: https://virtual.ieeevis.org/year/2022/paper_w-biomedicalai-47
 
 
 Group Number:
-1
+19
 
 Group Members:
 22266028 Labiba Tasfiya Jeba
