@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1DL6zbl6DwA2-evel5hPHHoxklZiBGTxQ/view?usp=shari
 Name, Author, Edition, year and publisher of the Book:
 Understanding Machine Learning: From Theory to Algorithms		
 Shai Shalev-Shwartz and Shai Ben-David
-
+1st edition
 2014 
 Cambridge University Press
 
