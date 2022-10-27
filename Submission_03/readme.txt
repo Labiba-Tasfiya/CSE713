@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://youtu.be/qMWCRhwbPhI
 
 Two public link to the Concept Map (anyone on the internet can view without login):
-PDF:
+PDF: https://github.com/Labiba-Tasfiya/CSE713/blob/main/Submission_03/understanding-machine-learning-theory-algorithms.pdf
 
 Native/original format: 
 https://drive.google.com/file/d/1DL6zbl6DwA2-evel5hPHHoxklZiBGTxQ/view?usp=sharing
